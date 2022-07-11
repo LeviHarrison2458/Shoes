@@ -1,0 +1,56 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+}
+#Nike {
+    width: 95px;
+    height: 50px;
+}
+ #Kobe {width: 195px;
+        height: 150px;  
+        border-right: 25px; 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+ }
+
+ #Lebron {width: 195px;
+          height:150px;
+          border: 222px;
+        
+ }
+
+ #Kyrie {width: 195px;
+         height: 150px;
+         
+ }
+ 
+ .nav-item {background-color: gold;
+            font-family: cursive;
+}
+.btn-outline-success {
+    background-color: gold;
+    color:black ;
+    float: right;
+}
+
+p {font-family: Verdana, Geneva, Tahoma, sans-serif; font-style: italic;
+
+}
+
+.container {display: grid;
+            column-gap: 50px;
+            
+            
+}
+
+.card-body {
+    background-color: gold;
+}
+
+.card-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-style: oblique;
+}
+
+.form-inline {
+    text-align: right;
+}
